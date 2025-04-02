@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    color: blue;
+    background-color: #fafafa;
+}
+
+.fancy{
+    color: rgb(55, 15, 45, 0.2);
+}
+
+a{
+    color: hsla(309, 100%, 50%, 0.8);
+}
+
+#even-fancier{
+    color: gold;
+}
